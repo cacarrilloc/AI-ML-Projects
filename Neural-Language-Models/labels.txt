@@ -1,0 +1,900 @@
+imam bakhsh amar: 4
+firoz laghari: 4
+glufishevo: 4
+qal`eh-ye ghazanfarkhani: 4
+nikolinalevada: 8
+kolkko: 8
+mbrostar i fierit: 4
+kharabanan-e sofla: 8
+stein bei nurnberg: 4
+jahangir bara: 8
+kainaki: 8
+karttula: 8
+affery: 4
+arquejols: 4
+finca teca: 4
+niperavas pusmuiza: 8
+firnizkoy: 4
+petit port: 4
+birel: 4
+finnhult: 4
+laranfiera: 4
+longtianzi: 1
+chakharde: 4
+yusefabad-e seyrafi: 4
+douar bou chnaffa: 8
+pyoraniemi: 4
+freundlingen: 4
+sao joao de petropolis: 4
+schrampe: 4
+siri kalag: 8
+dhoriza: 8
+kieltavala: 8
+lixinji: 4
+bar-gogar: 8
+saint gregorys: 4
+lunia: 8
+pokore: 4
+kankainen: 4
+san agustin tlalixticapa: 8
+buriram: 4
+dzhangalak: 8
+tapkarakoyunlu: 8
+zan kada: 8
+smedsbele: 4
+sint john's: 4
+kalateh-ye nurollah: 8
+vedentaka: 8
+ndakeni: 4
+changlohsien: 4
+chuanzhai: 4
+plougar: 8
+dadozay: 4
+dashtian: 4
+robati-ye shazdeh: 4
+bindyuga: 8
+morne dos malfini: 1
+ban noen fin: 4
+soyer: 4
+shizuishanxin: 1
+ncunteni: 4
+ulmala: 8
+kumhari dheri: 4
+rumswinkel: 4
+dangshui: 4
+ozourt: 4
+tagawsorak: 8
+sarfirazkala: 8
+tomp-e rigan: 8
+xiaojiazi: 1
+shuchia: 4
+tukampura: 8
+agartij kola: 8
+hsinchouchen: 4
+ab chal: 4
+shihchutzu: 8
+aserradero casa quemada: 8
+inaho: 8
+gxwaleni: 4
+tsakiraku: 8
+`omar qol bey: 4
+miladine: 4
+onbyin: 4
+ortaffa: 8
+pakhak-e pa'inah: 4
+paso de acurigua: 8
+iratos: 4
+domaine du keroulis: 4
+podem mikhaylovskoye: 4
+manaly: 4
+aguillan: 8
+ilpoinen: 4
+mittelsin: 4
+sergu: 4
+gongnong bingqiao: 1
+kolal: 4
+gantoucun: 8
+berki: 4
+deljan: 8
+francesa: 4
+chanduli: 4
+konfina: 8
+shuitungchaitsun: 4
+krazza: 8
+ducourt: 4
+segorong: 8
+thonne-les-pres: 4
+alairac: 2
+saint-julien-le-faucon: 8
+villenave-de-rions: 4
+darmand'yan: 4
+chachobi: 4
+vichier: 4
+zardgel: 4
+huajiaopian: 8
+ramzanpur: 8
+saikari: 4
+germay: 4
+amboairafia: 8
+uchizy: 4
+fine flower creek: 4
+linghuchenjia: 4
+juan antonio dominguez: 4
+paishuchang: 8
+fritzow: 1
+pingpo: 8
+dino maku: 8
+chak nur: 4
+muhammad arab katiar: 4
+muzhuxia: 8
+klandorf: 4
+omurozawa: 8
+le mesnil-raoul: 8
+kanatpinar: 4
+chendaiqiao: 1
+buhro sahib khan laghari goth: 4
+tiara pir: 4
+sixmile crossing: 1
+lengua de buey: 4
+qal`ah-ye koh-e gul bagh: 8
+soderuddland: 8
+inazawa: 8
+ryskino: 1
+vilniemi: 4
+basti sema: 4
+anzishan: 8
+becheresse: 4
+bryaza: 8
+tiliguloberezannya: 4
+gadkot: 2
+lavatikhune: 4
+timofilvka: 8
+baghbaghu: 8
+pachir aw agam: 8
+oulunsuu: 8
+rohiro: 2
+godown: 8
+jinan shi: 4
+l'esclauze: 4
+kadek: 8
+ofverpaddais: 4
+`aliabad-e shamshir bar: 4
+bar kolandai: 1
+ain majdalaine: 4
+zarkha: 8
+dziecinne: 4
+ali akbar shah: 4
+ghulamqadir qal`ah: 8
+gadayzay: 4
+marchzar: 8
+gade-koara: 8
+vakil'rustam-kalay: 4
+kora kuhneh: 4
+bukonitza: 8
+xinfengou: 8
+sai basti: 4
+dizgeran-e pa'in: 4
+tjigerendeng: 4
+ludwigsfeld: 4
+la provotaie: 4
+pinewood: 8
+boitron: 8
+kot murtaza: 8
+tien tchou ping: 8
+khazaragay: 4
+ghennagazza: 8
+el jobo de mendoza: 8
+treprel: 4
+song khula: 8
+banza peche: 4
+kwadulela: 4
+czarnoszyce: 4
+zhangwafang: 8
+zaouiet sidi ben hamdoun: 8
+huntingfield: 4
+guerpont: 4
+juzet-d'izaut: 4
+hsihsinshih: 4
+trezioux: 8
+valax: 8
+lahti: 4
+muzaffargarh: 4
+banza xariaia: 8
+naurangwala: 8
+bouillancy: 4
+cliza: 8
+karez-e muhammad-`ali khan: 8
+pihnari: 4
+`umm qrein: 4
+as siyafa: 4
+banda somaram: 8
+saint-lieux-les-lavaur: 8
+gehig: 4
+kaljar: 4
+naarjoki: 2
+medernach: 4
+dehlor: 4
+kalasiddik: 8
+narwai: 2
+haute chemin: 4
+saint-ceols: 4
+birnilafia: 8
+volkenshagen: 4
+takengtsun: 4
+bangarow: 8
+mayvan: 8
+saint-amand-sur-fion: 1
+aymons: 4
+kralovopolske vazany: 4
+huanggangling: 1
+kafr mahallat dawud: 8
+vec vale muizas centrs: 4
+kafr `osman `iffat: 4
+khurzad-e bala: 8
+chinkangtou: 8
+seilo: 4
+volkertsham: 4
+gastines-sur-erve: 4
+ogulkadin: 8
+freistett: 4
+maloye zakustischche: 4
+kot hast: 4
+showyang: 8
+mazhar al fir`aun: 8
+walidad baloch: 4
+aahire: 4
+dogo fili: 4
+ghowak: 8
+darvaleh-ye sofla: 8
+goudinie: 4
+sejafi: 4
+oeging: 8
+nazar khan kala: 8
+hornerholz: 8
+keffin madaki: 8
+ka¿iziltaw: 2
+saint-firmin-sur-loire: 4
+elbinsville: 4
+khanshah: 4
+niemelankyla: 8
+gittenbach: 4
+luotojarvi: 4
+ash masteyan: 4
+halmejarvi: 4
+rio molino: 1
+mangpu: 8
+casa de felipe galarza: 8
+diyar aghah: 8
+wopah cheshmeh: 4
+corbere-les-cabanes: 4
+reimars: 4
+qal`a-i-ghafur: 8
+quasquara: 8
+moustafa greidia: 8
+gorenflos: 4
+nanakabad: 8
+hjalmarbaden: 4
+kailanewala: 8
+fargeas: 4
+chak four hundred seven tda: 4
+krompan: 8
+touques: 4
+sin cao: 2
+hoja de puerco: 2
+hamza khaskheli: 4
+notak sikhani: 4
+thabazimbi: 4
+iivarinkyla: 8
+borongnginru: 8
+mashemi-ye `olya: 4
+nadeshka: 8
+zafarkalay: 4
+bana abu sir: 4
+molla gholam kur: 8
+tregonneau: 4
+lakho kahlu: 8
+yelizavetpol': 4
+mambrilla de castrejon: 8
+jushike: 4
+xiaohuang zhen: 4
+la gautrais: 4
+jhal: 4
+ar rafi`ah: 4
+shuangyanyu: 4
+afdeling enam gunungbayu: 4
+rasm al kabir: 4
+tifritha: 4
+oruzgan: 8
+novogireyevo: 4
+diandeguela: 4
+awdak-e khord: 8
+parcy-tigny: 4
+xiangqu gongshe: 4
+maideng: 4
+chaudhri muhammad iqbal panjabi: 4
+vlienderhage: 4
+de platvoet: 4
+basti malik wali muhammad: 8
+hongpaitou: 2
+zhanglingjiao: 1
+fipps crossing: 1
+nizhniye kazanishche: 4
+barzandeh: 4
+lal pahari: 4
+dokuzatli: 4
+suomensuo: 2
+messey: 4
+seh korreh-ye sofla: 8
+safili: 4
+obspringen: 4
+kar'yayi-sal'var: 4
+trimmohan: 8
+chenakh bolagh: 8
+istakharfihab: 4
+mir a`zam khan kala: 8
+kallajabad: 8
+hohenleimbach: 4
+rozoy-grand: 8
+koskenjoki: 2
+agharsin: 4
+pouningua: 8
+mojinga: 8
+dalkhaki: 8
+allahno sehto: 4
+zitorade: 4
+niskala: 8
+mpapuli location: 1
+sikh darah: 8
+debey: 4
+panjgiran: 8
+qal`a-i-gul: 4
+kandav: 8
+qijiaoxiang: 8
+deisslingen: 4
+shinri: 4
+hushupa: 8
+veilleins: 4
+evendorf: 4
+channapatan: 8
+corregimiento palmer de candelaria: 8
+kinkondeya: 4
+las cardenas: 4
+razvaliny kalayi-tanur: 8
+ermita de montemayor: 2
+goutte-belin: 4
+khvoshabad: 8
+ziada: 8
+kolonie klein dolln: 8
+al mirzam: 8
+seri kuh: 8
+bhadiaranwala khuh: 8
+hejiatun: 8
+khashrowd: 8
+wubaowanzi: 1
+hermillon: 8
+georgiye-afipskaya: 4
+chak kamboh: 8
+kiratpur: 4
+said ali mela: 4
+kallimanthayam: 4
+kirkkoniemi: 4
+yaokeng: 8
+clermont-de-l'herault: 4
+navi-kurbu: 8
+otterberg: 4
+hildweinsreuth: 4
+sukhawali: 4
+les bouillon: 8
+delawarkhan kalacha: 8
+ghwaygizah: 8
+singonan: 8
+zillendorf: 4
+muhammad husain otho: 2
+kingswood estates: 4
+fighine: 4
+niedersoultzbach: 4
+yuncao zhen: 4
+chanteloube: 4
+heminghytta: 4
+rasid: 4
+al kihayfiyah: 4
+polkritz: 4
+lakangtzu: 8
+sagzak: 8
+biruli dattu khelanwala: 8
+kot haibat: 4
+cuis dera: 4
+fini: 4
+gozu'iyeh-ye `olya: 4
+farafatrana: 8
+bazantov: 4
+gomsi: 4
+ollila: 8
+cafunda: 8
+halkovaara: 8
+takalo: 8
+chubintsy: 4
+pindi dhodhal: 4
+pietermaritsburg: 2
+puerto lagarza: 8
+ez zarabi: 4
+khajuriya: 4
+popinghsien: 4
+ingoumina: 8
+jannevirta: 4
+dayadar: 8
+makhad khad: 8
+beaumont-la-chartre: 4
+darvazan: 8
+nellschutz: 4
+chak 638 tda: 4
+herbertsdale: 4
+grossenenglis: 4
+dirchi: 4
+`ali mohammad beki: 4
+reinharts: 4
+mouthier-haute-pierre: 4
+((saint anns wells)): 4
+barekzai-ye junubi: 4
+chichiri: 4
+fratin: 4
+katbar: 4
+sundstensbacken: 4
+xiajiazui: 8
+lourdoueix-saint-michel: 4
+xinei: 4
+zagreda: 8
+jayzaniyat an naqib: 4
+mashkino: 1
+keudepanteradja: 8
+kar'yayi-khaur: 8
+hondeklip bay: 4
+dumfries and galloway: 4
+the willows: 2
+rumah birai: 4
+irdom: 8
+woodfin: 8
+eggenweiler: 4
+winiso sekyekurom: 8
+kafr ta`la: 8
+labraux: 8
+shuangkuntou: 8
+phum dey dos: 4
+goth hingora: 8
+la ragerie: 4
+gardaneh-ye shebli: 4
+saba: 8
+cross-etel: 4
+gaizhangzi: 1
+frailecillos: 4
+dermari: 4
+dizaj hoseyn beyg: 4
+dzadovci: 4
+wan radha ram: 8
+brocourt-en-argonne: 4
+san clemente del valle: 4
+tongkeri: 4
+niederdossenbach: 4
+goth khan sahta: 4
+vernois: 4
+sakardih: 4
+isa khan marri: 4
+cuirt mhic sheafraidh: 8
+basti khakhi: 4
+jushan: 8
+grasi: 4
+goth zubair ali faqir: 4
+baiyekeng: 4
+ohringen: 4
+dahan-e shahbid: 8
+sarafinia: 8
+moskabad: 8
+jaidar: 8
+ay darvish: 4
+zarrin abad: 8
+petit ligautenx: 8
+dabay: 4
+bovagen: 4
+vale de vaz: 8
+palau: 8
+goth sattar punjabi: 4
+hotar: 4
+qinglinkou: 8
+de sro kelay: 4
+gejiayuan: 8
+salekhana: 8
+yangchiacha: 8
+lintzu: 8
+kmumbeine: 4
+piedmont: 4
+belle-isle: 4
+kunda-ye kalan: 8
+barcenillas de ribero: 4
+sonder brorstrup: 2
+ahu char: 4
+telegrafistas: 4
+shirleh: 4
+fendoudui: 8
+dhok quraishi: 4
+qal`eh-ye mardan: 8
+san juan de tocoma: 8
+dongjiazhuang: 8
+touvre: 4
+targari: 4
+anysspruit: 4
+konkoza: 8
+kafin abersi: 4
+gimvi: 4
+igdemlik: 8
+qarya-i gudri pa'in: 4
+douira: 8
+daiquanting: 1
+oficina caguita: 4
+lwanping: 8
+schonwalde am bungsberg: 4
+debottar ismail: 4
+saint-michel-de-vax: 8
+liudezhao: 8
+howz chah: 4
+allemagne-de-provence: 4
+oficina de cafe: 4
+ozark view: 4
+dabali: 4
+goth jamali palio: 1
+meyan cheghan: 8
+husain shah: 4
+ha-mubua: 8
+arenzhain: 8
+idris kirio: 1
+changchiayuan: 8
+botbygard: 8
+kafr manawahlah: 8
+kockin: 8
+tedjerek: 4
+kaffin-sanu: 8
+bhanbhar: 4
+soltan ahmad: 8
+kawtarkhan: 8
+pushta khara bala: 8
+norsa: 4
+nag` suliman el-manfi: 4
+winyabon: 8
+kleinbothen: 4
+ikinci udullu: 8
+sherrington: 1
+hafiz rajar: 4
+berdeales: 4
+chamla sara: 8
+de shams kalay: 4
+minhowhsien: 4
+fuhr: 4
+adardeb: 4
+ober eickum: 8
+lilhac: 4
+vassenden: 4
+chapelle-guillaume: 4
+ghulam kelay: 4
+qal`eh salboteh: 4
+khorgarai: 4
+kajlu khan: 8
+behringen: 4
+bazmitan: 8
+saman khel: 4
+bingali: 4
+bourgoin: 1
+madokug: 8
+vladimiro-konstantinovka: 8
+jindiaoyuewan: 8
+saint-leu: 4
+waitianwan: 8
+gucaoduogou: 8
+dartsmuiza: 8
+douar nechirat: 4
+shangwangwan: 8
+kafr `ata allah sulayman: 8
+la chausee: 4
+garinish: 4
+cerisi: 4
+goth kapat: 4
+fa: 0
+safiyehabad: 8
+ahuzzat baraq: 8
+nakhl nakhuda: 8
+petrisul de sus: 4
+yawjan: 8
+shahan ro khu: 8
+pirbalo: 8
+les aubins: 4
+sarqia-i-afghania: 8
+wilnsdorf: 4
+pereseynyayoki: 2
+aybak: 8
+khargosh: 4
+brunning: 1
+piplan liaqatabad: 8
+shahrak-e elahiyeh: 4
+cijan: 8
+makhwelela: 4
+banza pango: 8
+pondok 31 afdeling 1 b: 4
+shengtai: 4
+`abdullah kala: 8
+ndembera ngwira: 8
+ust-malyye chirki: 4
+brannlund: 8
+zarra nali: 4
+tsanba: 8
+gouweiling: 1
+la roque-gageac: 4
+zando banda: 8
+zavoroty: 4
+gezan xiang: 8
+chah-e chabrzadan: 8
+nurulhaq: 8
+botterkloof: 8
+goth barchani: 4
+kitinoja: 8
+lanleia: 4
+dhoiun: 8
+dutal: 4
+guanzhou: 8
+deh-e ramazi: 1
+sar takhtgah: 4
+yonval: 4
+izanga: 8
+zhuoyang: 8
+jimba tinaco: 2
+linli: 4
+skeppsvik: 8
+kafia: 8
+jawad al `urfi: 4
+sudhorsten: 4
+brannforsliden: 4
+kafin karva: 8
+oberafiesl: 4
+saint isidore: 4
+degri: 4
+zamshe: 4
+asinai: 4
+bailal khel: 4
+kurzberg: 4
+jallais: 4
+jogianwala: 8
+zhouwuzhai: 4
+laodukou: 8
+ghuyan: 8
+miraveau: 4
+touguan: 8
+sikucapidekah: 8
+houtieshifang: 8
+hagen: 4
+putto: 2
+castillo de montjuich: 4
+daura kilan: 8
+ondreville-sur-essonne: 4
+la roussardiere: 4
+kotli tarlah: 4
+gongyou: 8
+redange: 4
+maokouzhen: 4
+qarabaghi: 4
+foulcrey: 4
+karez-i-zarq: 8
+eqbalkhan kalay: 4
+gordeh: 4
+filino-sofiyskoye: 4
+haimoo: 1
+emdemtenga: 8
+bassenndina: 8
+panj anghusht-i shaykh mustafa: 4
+litteau: 4
+isokangas: 4
+hesar-e soporghan: 8
+gangar: 8
+lheraule: 4
+the cedars: 4
+gundardehi: 4
+manastirea ghighiul: 4
+sarab-e sarin: 4
+overath: 4
+gul muhammad zaur: 8
+zhaze: 4
+landey ghundey: 4
+kahl: 4
+xiaonianzhuang: 8
+zakhmet-abod: 8
+les frossards: 4
+oficina miguel arenas: 4
+peituchieh: 4
+zacapala: 8
+shangchih: 4
+leppasalmi: 4
+canda primeiro: 2
+zhenjia: 4
+nas: 4
+karshekin: 4
+linha oito leste: 4
+ashnokhur: 8
+visgeh: 4
+korentokangas: 4
+zabat kalay: 4
+letterfinish: 4
+deh now-e rabbani: 4
+la caujonnet: 4
+fateh khel: 4
+hussainabad awwal: 8
+hirslahti: 4
+boneh-ye gach: 4
+estacion de bombeo: 4
+denizgiren: 4
+kainya: 4
+afipskiy: 4
+now deh-e aman: 8
+balwalanwali: 4
+grogneul: 4
+hausanniemi: 4
+zoumayuan: 8
+orlowschtschina: 8
+saint-denis-les-martel: 4
+papul'zaykalay: 4
+taiyong: 1
+pont coffieres: 4
+walehzir: 4
+landetta: 4
+somecure: 4
+muhlschlag: 8
+qilingxia: 8
+kaleh qatar-e `olya: 4
+gurah uttam singh: 4
+fairfax farms: 4
+partalankyla: 8
+nea tirolor: 8
+sawanwala: 8
+shahrak-e shahpur gholamreza: 8
+puttelange-les-farschwiller: 4
+guijiabaozi: 1
+chawki: 2
+le catelier: 4
+bacino brdo: 8
+saint-cezaire: 4
+francisco da rocha: 8
+novaya azhinka: 8
+jantok: 8
+papeyan: 4
+doeuil: 4
+sujiabei: 4
+ceauce: 4
+baiwen: 4
+kot fazal ahmad: 8
+handeuleum hilir: 4
+tachenghsu: 4
+fienstedt: 4
+sikhgoshak: 8
+llanfyllin: 1
+gurgir: 4
+shindintay: 4
+riikonen: 4
+tirselt: 4
+tuanbaoliang: 8
+lobzhakang: 8
+warth: 4
+tanskila: 8
+fishkhauzen: 4
+hacienda edelmira: 8
+zagreb: 4
+supaypoza: 8
+chak fifty-four d b: 4
+androp: 2
+grimmelshausen: 4
+douar khelfi larbi: 4
+quiviquinta: 4
+qizil `ali: 4
+`abd ol val: 4
+bandar-e ma`shur: 4
+noqdi: 4
+bhakran: 8
+barrio de las minas: 4
+biro khan jakhrani: 4
+companhia de baixo: 8
+zargar khel: 4
+le randillon: 8
+kosi store: 4
+dzierzawy: 4
+ciruasgede: 4
+escosse: 4
+trevino la famo: 8
+zalawie: 4
+klein mehedorf: 4
+tengchowfu: 8
+mszadla siciska: 8
+qasemabad-e posht-e ab zabol: 8
+ahtola: 8
+newfondale: 4
+san rafael hbal: 4
+kambirwala: 8
+el derrame: 4
+pindi kut: 4
+buduksiderejo: 2
+kanstein: 4
+yinfan: 8
+anarafito: 2
+bohlulzay: 4
+umar khan jar: 4
+molla borhan: 8
+muchiao: 8
+sisinec: 4
+cazaux-de larboust: 4
+mindure: 4
+wonderkop: 2
+boinville-en-woevre: 4
+qazi karez: 4
+tilin: 4
+posht-e sabad: 8
+dzan shareh kalay: 4
+tagao rebat: 4
+salzarak: 8
+tah-i-qol: 4
+khakha: 8
+imar khel zangai: 1
+tafananai: 4
+daqiaogou: 8
+french hoek: 4
+medetogbo: 8
+shinodachi: 4
+yangluoda: 8
+saint-bonnet-les-quarts: 4
+khanzama khel: 4
+jinpingjia: 8
+finnart: 4
+staroye zagorodishche: 4
+zagul'ba: 8
+biswanath: 4
+anse noire: 4
+zangora: 8
+qiaojiacun: 8
+zastuplje: 4
+chak 255 tda: 4
+velvina: 8
+al zabyah: 4
+hoth: 4
+corral de enmedio: 1
+bois pin boule: 4
+huangxiecun: 8
+verkhne idinskoye: 4
+estancia khala llijiri: 4
+yenicefelekettin: 4
+seremange-erzange: 4
+qala gaz: 8
+suotuhan linchang: 8
+nasar fateh khel: 4
+sark: 8
+kiyab: 4
+linevichi: 4
+pazadan: 8
+warhal: 4
+jaunsaikavas muiza: 8
+hazira: 8
+`alam kach: 4
+tiza: 8
+leynhac: 4
+suttila: 4
+zay salih: 4
+zhongzhuniuchang: 8
+malaya grinevshchina: 8
+girgi: 4
+las ninas: 4
+quirina: 8
+sogcanggoin: 1
+ban sopkhing: 8
+sharghala kili: 4
+goth ghulam hussain jokhio: 1
+bostanzai: 4
+weijiazhuang: 8
+suru'iyeh: 4
+rigwa'i sofla: 8
+robinsons chapel: 4
+ladusved: 4
+karafige: 4
+toudaochuan: 8
+celliere: 4
+birdfield estates: 4
