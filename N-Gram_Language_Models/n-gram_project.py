@@ -32,8 +32,6 @@ Original file is located at
 - [Language Independent Authorship Attribution using Character Level Language Models](http://www.aclweb.org/anthology/E/E03/E03-1053.pdf). Fuchun Pen, Dale Schuurmans, Vlado Keselj, Shaojun Wan. EACL 2003.
 
 ## To get started, **make a copy** of this colab notebook into your google drive!
-
-## Setup 1: PennGrader Setup [4 points]
 """
 
 # Commented out IPython magic to ensure Python compatibility.
